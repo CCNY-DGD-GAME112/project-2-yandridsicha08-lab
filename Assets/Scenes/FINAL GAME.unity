@@ -601,7 +601,7 @@ MonoBehaviour:
   OrbPrefab: {fileID: 15502912846160612, guid: d4db52c95299d3e4eb3d17b56d9dc4fd, type: 3}
   StartingChasers: 2
   StartingOrbs: 15
-  OrbPassiveSpawnInterval: 0.25
+  OrbPassiveSpawnInterval: 0.5
   GhostSpawnInterval: 5
   BounceGhostScoreThreshold: 5
   SafeSpawnRadius: 42
